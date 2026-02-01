@@ -67,14 +67,3 @@ func main() {
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Dapunta.Dapunta&style=flat-square&color=darkgreen"/>
     <img src="https://img.shields.io/github/followers/Dapunta?style=flat-square&color=blue"/>
     <img src="https://img.shields.io/github/stars/Dapunta?style=flat-square&color=yellow"/>
-</p>
-<div align="center">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rat-Azel&layout=compact&theme=dark">
-</div>
-<div align="center">
-  <a href="https://github.com/Rat-Azel/JKT48"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=Rat-Azel&repo=JKT48&theme=dark"></a>
-  <a href="https://github.com/locklocksss/XSIM"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciverXploit&repo=XSIM&theme=dark"></a>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,
